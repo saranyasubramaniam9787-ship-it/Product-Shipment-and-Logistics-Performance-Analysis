@@ -18,5 +18,5 @@ Product logistics analytics project focused on shipment performance, delivery de
 ## 📊 Project Overview
 
 This project analyzes shipment performance, delivery efficiency, logistics operations, sales performance, and profitability in an e-commerce supply chain. The goal is to identify delivery delays, evaluate shipping mode effectiveness, understand customer purchasing patterns, and uncover opportunities to improve logistics performance and business outcomes.
----
+
 
