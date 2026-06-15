@@ -88,3 +88,20 @@ The analysis focused on answering the following business questions:
 - Leverage demand forecasting and seasonal planning to allocate inventory, workforce, and logistics resources more effectively during peak demand periods.
 - Promote and prioritize Standard Class shipping, as it delivers the highest profitability while maintaining cost-efficient operations.
 - Establish continuous logistics performance monitoring using key KPIs such as on-time delivery rate, average delay time, and order cancellation rate to drive ongoing operational improvements.
+
+ 
+## ⚙️ How to Use
+
+### Requirements
+
+```bash
+pip install pandas numpy matplotlib seaborn
+```
+
+### Run the Project
+
+1. Download the dataset from the source.
+2. Open the Jupyter Notebook.
+3. Run all analysis cells sequentially.
+4. Explore the Power BI dashboard for interactive insights.
+5. Review recommendations and business findings.
