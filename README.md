@@ -1,5 +1,5 @@
 # Product-Shipment-and-Logistics-Performance-Analysis
-Apparel logistics analytics project focused on shipment performance, delivery delays, sales trends, and supply chain insights using Python and Power BI.
+Product logistics analytics project focused on shipment performance, delivery delays, sales trends, and supply chain insights using Python and Power BI.
 
 ---
 
