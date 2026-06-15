@@ -31,8 +31,6 @@ Discover top-performing apparel categories, high-demand markets, and seasonal sh
 - **Domain:** E-Commerce
 - **Timeline:** 2015–2018
 - **Dataset Features:** Shipment-related attributes, delivery status, shipping mode, customer information, sales, profit, market, and order-related attributes.
-
-
   
 ## 🛠️ Tools & Technologies
 
@@ -40,8 +38,6 @@ Discover top-performing apparel categories, high-demand markets, and seasonal sh
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 - **Visualization:** Matplotlib,Seaborn/Power BI
 - **Documentation:** Google Colab Notebook
-
-
 
 ## 🧹 Data Cleaning & Preparation
 
