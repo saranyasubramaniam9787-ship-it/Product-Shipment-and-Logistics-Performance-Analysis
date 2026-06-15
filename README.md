@@ -40,6 +40,16 @@ Discover top-performing apparel categories, high-demand markets, and seasonal sh
 - **Documentation:** Google Colab Notebook
 
 
+## 🧹 Data Cleaning & Preparation
+
+The following preprocessing steps were performed:
+
+- Removed unnecessary and duplicate columns to improve data quality and analysis efficiency.
+- Checked and handled missing values where applicable.
+- Standardized data formats and ensured consistency across categorical and numerical fields.
+- Detected and analyzed outliers to identify unusual shipment and sales patterns.
+- Verified data types and converted columns to appropriate formats for analysis.
+- Created derived metrics and features required for logistics performance evaluation.
 
 
 
