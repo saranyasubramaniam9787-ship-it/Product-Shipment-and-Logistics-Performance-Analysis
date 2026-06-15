@@ -23,7 +23,7 @@ Discover top-performing apparel categories, high-demand markets, and seasonal sh
 - Evaluate the impact of delivery performance on sales, profit, customer segments, and payment behavior.
 - Provide data-driven recommendations to improve logistics efficiency, reduce delays, and enhance business performance.
 
----
+
 ## 🗂️ Data Source
 
 - **Source:** https://data.mendeley.com/datasets/kfzvv8bfgr/1
@@ -31,7 +31,7 @@ Discover top-performing apparel categories, high-demand markets, and seasonal sh
 - **Timeline:** 2015–2018
 - **Dataset Features:** Shipment-related attributes, delivery status, shipping mode, customer information, sales, profit, market, and order-related attributes.
 
----
+
 
 
 
