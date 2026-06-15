@@ -24,12 +24,14 @@ Discover top-performing apparel categories, high-demand markets, and seasonal sh
 - Provide data-driven recommendations to improve logistics efficiency, reduce delays, and enhance business performance.
 
 
+
 ## 🗂️ Data Source
 
 - **Source:** https://data.mendeley.com/datasets/kfzvv8bfgr/1
 - **Domain:** E-Commerce
 - **Timeline:** 2015–2018
 - **Dataset Features:** Shipment-related attributes, delivery status, shipping mode, customer information, sales, profit, market, and order-related attributes.
+
 
   
 ## 🛠️ Tools & Technologies
@@ -38,6 +40,7 @@ Discover top-performing apparel categories, high-demand markets, and seasonal sh
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 - **Visualization:** Matplotlib,Seaborn/Power BI
 - **Documentation:** Google Colab Notebook
+
 
 
 ## 🧹 Data Cleaning & Preparation
