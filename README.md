@@ -96,7 +96,7 @@ pip install pandas numpy matplotlib seaborn
 ### Run the Project
 
 1. Download the dataset from the source.
-2. Open the Jupyter Notebook.
+2. Open the Google Colab Notebook.
 3. Run all analysis cells sequentially.
 4. Explore the Power BI dashboard for interactive insights.
 5. Review recommendations and business findings.
