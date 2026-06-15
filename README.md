@@ -55,4 +55,18 @@ The following preprocessing steps were performed:
 - Created derived metrics and features required for logistics performance evaluation.
 
 
+## 🔍 Exploratory Data Analysis (EDA)
+
+The analysis focused on answering the following business questions:
+
+- How efficient are shipments across different regions and shipping modes?
+- What is the difference between scheduled and actual delivery times?
+- Which regions have the highest late delivery risk?
+- How do logistics operations impact sales and profitability?
+- Which product categories and markets generate the highest demand?
+- What are the patterns in delivery status and shipment delays?
+- How do customer segments contribute to overall sales?
+- What are the monthly and seasonal shipment trends?
+
+<img width="1046" height="593" alt="image" src="https://github.com/user-attachments/assets/482bb54c-a0c0-4eb6-b276-8de4cfa04f2d" />
 
