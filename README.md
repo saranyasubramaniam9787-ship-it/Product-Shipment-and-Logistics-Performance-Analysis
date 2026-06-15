@@ -3,7 +3,7 @@ Product logistics analytics project focused on shipment performance, delivery de
 
 ---
 
-## 📖 Table of Contents
+## Table of Contents
 
 - [Project Overview](#-project-overview)
 - [Data Source](#-data-source)
@@ -15,7 +15,7 @@ Product logistics analytics project focused on shipment performance, delivery de
 - [How to Use](#️-how-to-use)
 
 ---
-## 📊 Project Overview
+## Project Overview
 
 - Analyze shipment performance by comparing scheduled and actual delivery times across regions and shipping modes.
 - Identify high-risk regions and key factors contributing to delivery delays.
@@ -25,21 +25,21 @@ Discover top-performing apparel categories, high-demand markets, and seasonal sh
 
 
 
-## 🗂️ Data Source
+##  Data Source
 
 - **Source:** https://data.mendeley.com/datasets/kfzvv8bfgr/1
 - **Domain:** E-Commerce
 - **Timeline:** 2015–2018
 - **Dataset Features:** Shipment-related attributes, delivery status, shipping mode, customer information, sales, profit, market, and order-related attributes.
   
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Programming Language:** Python
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 - **Visualization:** Matplotlib,Seaborn/Power BI
 - **Documentation:** Google Colab Notebook
 
-## 🧹 Data Cleaning & Preparation
+##  Data Cleaning & Preparation
 
 The following preprocessing steps were performed:
 - Selected only the relevant columns required for shipment and logistics analysis.
@@ -51,7 +51,7 @@ The following preprocessing steps were performed:
 - Created derived metrics and features required for logistics performance evaluation.
 
 
-## 🔍 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 
 The analysis focused on answering the following business questions:
 
@@ -67,7 +67,7 @@ The analysis focused on answering the following business questions:
 <img width="1046" height="593" alt="image" src="https://github.com/user-attachments/assets/482bb54c-a0c0-4eb6-b276-8de4cfa04f2d" />
 
 
-## 💡 Key Insights
+##  Key Insights
 
 - Late deliveries represent 54.8% of total orders (98,976 orders), making delivery delays the most significant logistics challenge affecting operational performance.
 - The company operates a large-scale logistics network, successfully processing 180,516 orders and shipping 384,076 units across 562 cities.
@@ -76,7 +76,7 @@ The analysis focused on answering the following business questions:
 - Most delayed shipments were only delayed by one day, suggesting that minor process improvements could substantially enhance delivery performance.
 - Higher shipment volumes are strongly associated with increased delivery delays, highlighting the need for better logistics capacity planning, route optimization, and demand forecasting.
 
-## 🚀 Recommendations
+##  Recommendations
 
 - Optimize transportation routes and delivery scheduling to reduce late deliveries and improve overall shipment efficiency.
 - Increase logistics capacity and infrastructure in high-demand regions, particularly Central America and Western Europe, to address operational bottlenecks and delivery risks.
@@ -86,7 +86,7 @@ The analysis focused on answering the following business questions:
 - Establish continuous logistics performance monitoring using key KPIs such as on-time delivery rate, average delay time, and order cancellation rate to drive ongoing operational improvements.
 
  
-## ⚙️ How to Use
+##  How to Use
 
 ### Requirements
 
