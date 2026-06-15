@@ -70,3 +70,21 @@ The analysis focused on answering the following business questions:
 
 <img width="1046" height="593" alt="image" src="https://github.com/user-attachments/assets/482bb54c-a0c0-4eb6-b276-8de4cfa04f2d" />
 
+
+## 💡 Key Insights
+
+- Late deliveries represent 54.8% of total orders (98,976 orders), making delivery delays the most significant logistics challenge affecting operational performance.
+- The company operates a large-scale logistics network, successfully processing 180,516 orders and shipping 384,076 units across 562 cities.
+- Central America and Western Europe contribute the highest shipment volumes but also experience the highest late-delivery risk, indicating regional logistics bottlenecks.
+- Standard Class is the most profitable shipping mode, generating approximately $2.51M in profit while handling a significant share of shipments.
+- Most delayed shipments were only delayed by one day, suggesting that minor process improvements could substantially enhance delivery performance.
+- Higher shipment volumes are strongly associated with increased delivery delays, highlighting the need for better logistics capacity planning, route optimization, and demand forecasting.
+
+## 🚀 Recommendations
+
+- Optimize transportation routes and delivery scheduling to reduce late deliveries and improve overall shipment efficiency.
+- Increase logistics capacity and infrastructure in high-demand regions, particularly Central America and Western Europe, to address operational bottlenecks and delivery risks.
+- Implement real-time shipment tracking and proactive customer communication to improve delivery visibility, customer satisfaction, and trust.
+- Leverage demand forecasting and seasonal planning to allocate inventory, workforce, and logistics resources more effectively during peak demand periods.
+- Promote and prioritize Standard Class shipping, as it delivers the highest profitability while maintaining cost-efficient operations.
+- Establish continuous logistics performance monitoring using key KPIs such as on-time delivery rate, average delay time, and order cancellation rate to drive ongoing operational improvements.
