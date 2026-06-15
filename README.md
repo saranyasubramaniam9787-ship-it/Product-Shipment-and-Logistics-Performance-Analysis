@@ -46,7 +46,7 @@ Discover top-performing apparel categories, high-demand markets, and seasonal sh
 ## 🧹 Data Cleaning & Preparation
 
 The following preprocessing steps were performed:
-
+- Selected only the relevant columns required for shipment and logistics analysis.
 - Removed unnecessary and duplicate columns to improve data quality and analysis efficiency.
 - Checked and handled missing values where applicable.
 - Standardized data formats and ensured consistency across categorical and numerical fields.
